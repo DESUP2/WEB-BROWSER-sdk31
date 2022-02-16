@@ -1,0 +1,655 @@
+{
+  "en-ca": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "CBC",
+      "url": "http://www.cbc.ca/",
+      "large_icon_url": "http://www.cbc.ca/a/apple-touch-icon.png"
+    },
+    {
+      "title": "ESPN",
+      "url": "http://www.espn.com/",
+      "large_icon_url": "http://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons/espn_icon-114x114.min.png"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.ca/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/",
+      "large_icon_url": "https://www.redditstatic.com/mweb2x/favicon/120x120.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "en-au": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "ABC",
+      "url": "http://mobile.abc.net.au/",
+      "large_icon_url": "http://mobile.abc.net.au/homepage/mobile/images/homepage/apple-touch-icon-114x114.png"
+    },
+    {
+      "title": "Nine",
+      "url": "https://www.nine.com.au/",
+      "large_icon_url": "https://www.nine.com.au/static/assets/images/apple-touch-icon-76x76-1896d58d.png"
+    },
+    {
+      "title": "Ebay",
+      "url": "https://m.ebay.com.au/",
+      "large_icon_url": "https://ir.ebaystatic.com/pictures/aw/pics/mobile/images/apple-touch-icon.png"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/",
+      "large_icon_url": "https://www.redditstatic.com/mweb2x/favicon/120x120.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "pt-br": [
+    {
+      "title": "Notícias",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Globo",
+      "url": "http://www.globo.com/",
+      "large_icon_url": "http://s.glbimg.com/en/ho/static/touchphone/img/apple-touch-icon-iphone-retina.png"
+    },
+    {
+      "title": "Yahoo Esportes ",
+      "url": "https://esportes.yahoo.com/",
+      "large_icon_url": "https://s.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-high-1636137.png"
+    },
+    {
+      "title": "Mercadolivre",
+      "url": "https://www.mercadolivre.com.br/",
+      "large_icon_url": "https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/images/components/navigation/ML/76x76-precomposed.714703b7.png"
+    },
+    {
+      "title": "Fazenda",
+      "url": "http://fazenda.gov.br/",
+      "large_icon_url": "http://fazenda.gov.br/++theme++azul/img/touch_icon.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "es-mx": [
+    {
+      "title": "Notícias",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Uno TV",
+      "url": "https://www.unotv.com/",
+      "large_icon_url": "https://www.unotv.com/recursos_mobile_first/favicons/apple-icon-76x76.png"
+    },
+    {
+      "title": "ESPN Deportes",
+      "url": "http://espndeportes.espn.com/",
+      "large_icon_url": "http://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons/espn_icon-114x114.min.png"
+    },
+    {
+      "title": "Mercado Libre",
+      "url": "https://www.mercadolibre.com.mx/",
+      "large_icon_url": "https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/images/components/navigation/ML/76x76-precomposed.714703b7.png"
+    },
+    {
+      "title": "Milenio",
+      "url": "http://m.milenio.com/",
+      "large_icon_url": "http://m.milenio.com/touch-icon-ipad.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "ja-jp": [
+    {
+      "title": "ニュース",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Yahoo News",
+      "url": "https://news.yahoo.co.jp/",
+      "large_icon_url": "https://s.yimg.jp/c/icon/s/bsc/2.0/news120.png"
+    },
+    {
+      "title": "Ameblo",
+      "url": "http://ameblo.jp/",
+      "large_icon_url": "https://stat100.ameba.jp/common_style/img/sp/apple-touch-icon.png"
+    },
+    {
+      "title": "Rakuten",
+      "url": "https://www.rakuten.co.jp/",
+      "large_icon_url": "https://r.r10s.jp/com/img/home/iphone/share/rakuten.png"
+    },
+    {
+      "title": "Tabelog",
+      "url": "https://s.tabelog.com/",
+      "large_icon_url": "https://tblg.k-img.com/images/smartphone/favicon.png?20140320"
+    },
+    {
+      "title": "Nicovideo",
+      "url": "http://sp.nicovideo.jp/",
+      "large_icon_url": "http://sp.res.nimg.jp/img/apple-touch-icon-114x114.png"
+    }
+  ],
+  "en-in": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "India Times",
+      "url": "https://m.indiatimes.com/",
+      "large_icon_url": "https://m.indiatimes.com/favicon.ico?v=53.0"
+    },
+    {
+      "title": "Cricbuzz",
+      "url": "http://m.cricbuzz.com/",
+      "large_icon_url": "http://m.cricbuzz.com/images/cricbuzz/apple-touch-icon.png"
+    },
+    {
+      "title": "Flipkart",
+      "url": "https://www.flipkart.com/",
+      "large_icon_url": "https://www.flipkart.com/favicon.ico"
+    },
+    {
+      "title": "Rediff",
+      "url": "https://m.rediff.com/",
+      "large_icon_url": "https://m.rediff.com/favicon.ico"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "es-es": [
+    {
+      "title": "Noticias",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "El Pais",
+      "url": "https://elpais.com/",
+      "large_icon_url": "https://elpais.com/favicon.ico"
+    },
+    {
+      "title": " El Mundo Deportes",
+      "url": "http://www.elmundo.es/deportes.html",
+      "large_icon_url": "http://estaticos.elmundo.es/favicon.ico"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.es/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Milanuncious",
+      "url": "https://www.milanuncios.es/",
+      "large_icon_url": "https://www.milanuncios.es/favicon.ico"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "it-it": [
+    {
+      "title": "Notizie",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Repubblica",
+      "url": "http://www.repubblica.it/",
+      "large_icon_url": "https://www.repstatic.it/cless/main/nazionale/2016-v1/img/common/favicon/apple-touch-icon-114.png"
+    },
+    {
+      "title": "Sky",
+      "url": "http://www.sky.it/",
+      "large_icon_url": "http://www.sky.it/favicon.ico"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.it/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Virgilio",
+      "url": "http://www.virgilio.it/",
+      "large_icon_url": "http://virgilio.plug.it/v1.1/img/fi/apple-touch-icon-76x76.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "fr-fr": [
+    {
+      "title": "Actualités",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Franceinfo",
+      "url": "http://mobile.francetvinfo.fr/",
+      "large_icon_url": "http://mobile.francetvinfo.fr/skin/1.2.397/www/img/icn/apple/114x114.png"
+    },
+    {
+      "title": "Sport24",
+      "url": "http://sport24.lefigaro.fr/",
+      "large_icon_url": "http://sport24.lefigaro.fr/bundles/sport24site/img/favicons/apple-touch-icon-76x76.png?v=Lefigaro"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.fr/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Orange",
+      "url": "http://wwwm.orange.fr/portail",
+      "large_icon_url": "http://hp5.b.woopic.com/icons/WebClipIcon114.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "de-de": [
+    {
+      "title": "Nachrichten",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "Bild",
+      "url": "http://www.bild.de/",
+      "large_icon_url": "http://bilder.bild.de/fotos/bild-de-35605834/Bild/3.bild.png"
+    },
+    {
+      "title": "Spiegel",
+      "url": "http://m.spiegel.de/sport/",
+      "large_icon_url": "http://m.spiegel.de/static/V2/logo/favicon/touch-icon114.png"
+    },
+    {
+      "title": "Ebay-kleinanzeigen",
+      "url": "https://m.ebay-kleinanzeigen.de/",
+      "large_icon_url": "https://m.ebay-kleinanzeigen.de/favicons/apple-touch-icon-76x76.png"
+    },
+    {
+      "title": "Web.de",
+      "url": "https://web.de/",
+      "large_icon_url": "https://s.uicdn.com/uimag/3.2175.0/assets/favicon/webde/apple-touch-icon-76x76.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "en-gb": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "BBC",
+      "url": "https://bbc.co.uk",
+      "large_icon_url": "http://static.bbci.co.uk/wwhp/1.117.0/responsive/img/apple-touch/apple-touch-180.jpg"
+    },
+    {
+      "title": "Skysports",
+      "url": "http://www.skysports.com/",
+      "large_icon_url": "http://www.skysports.com/assets/apple-touch-icon.png"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.co.uk/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/",
+      "large_icon_url": "https://www.redditstatic.com/mweb2x/favicon/120x120.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "default": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "BBC",
+      "url": "https://bbc.co.uk",
+      "large_icon_url": "http://static.bbci.co.uk/wwhp/1.117.0/responsive/img/apple-touch/apple-touch-180.jpg"
+    },
+    {
+      "title": "Skysports",
+      "url": "http://www.skysports.com/",
+      "large_icon_url": "http://www.skysports.com/assets/apple-touch-icon.png"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.co.uk/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/",
+      "large_icon_url": "https://www.redditstatic.com/mweb2x/favicon/120x120.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "en-us": [
+    {
+      "title": "News",
+      "url": "https://app.adjust.com/v1t8md5_4ebyimf",
+      "large_icon_url": "https://iriscoremetadataprod.blob.core.windows.net/assets/8353863567095989496_128000000001902709_assets_image1_1582841753456.png"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "large_icon_url": "https://www.facebook.com/images/fb_icon_325x325.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.org/",
+      "large_icon_url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png"
+    },
+    {
+      "title": "The Weather Channel",
+      "url": "https://weather.com/",
+      "large_icon_url": "https://s.w-x.co/twc_180x180.png"
+    },
+    {
+      "title": "ESPN",
+      "url": "http://www.espn.com/",
+      "large_icon_url": "http://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons/espn_icon-114x114.min.png"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.com/",
+      "large_icon_url": "https://images-na.ssl-images-amazon.com/images/G/01/anywhere/a_smile_114x114._CB368212020_.png"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/",
+      "large_icon_url": "https://www.redditstatic.com/mweb2x/favicon/120x120.png"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://m.youtube.com/",
+      "large_icon_url": "https://m.youtube.com/yts/img/ringo/mobile/img/apple-touch-icon-114x114-precomposed-vfla1sQAR.png"
+    }
+  ],
+  "zh-cn": [
+    {
+      "title": "新浪",
+      "url": "https://sina.cn/",
+      "large_icon_url": "https://mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_114x114_v1.png"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "large_icon_url": "https://www.bing.com/th?id=AR_289783c46cd3c3284b58282b438c1de7&w=80&h=80"
+    },
+    {
+      "title": "搜狐",
+      "url": "http://m.sohu.com/",
+      "large_icon_url": "http://mp.sohu.com/favicon.ico"
+    },
+    {
+      "title": "凤凰网",
+      "url": "http://i.ifeng.com/",
+      "large_icon_url": "http://p0.ifengimg.com/a/2016_52/29879fe7c5dc70b_size8_w144_h144.png"
+    },
+    {
+      "title": "网易",
+      "url": "http://3g.163.com/",
+      "large_icon_url": "http://img2.cache.netease.com/f2e/wap/touch_index_2016/trunk/images/icon114x114.png"
+    },
+    {
+      "title": "京东",
+      "url": "https://m.jd.com/",
+      "large_icon_url": "https://st.360buyimg.com/m/images/apple-touch-icon.png?v=jd201708311805"
+    },
+    {
+      "title": "QQ",
+      "url": "http://xw.qq.com/",
+      "large_icon_url": "http://mat1.gtimg.com/www/mobi/2017/image/apple-touch-icon.png"
+    },
+    {
+      "title": "优酷",
+      "url": "http://www.youku.com/",
+      "large_icon_url": "http://static.youku.com/h5/html/share/images/h5_300x300.png"
+    }
+  ]
+}
